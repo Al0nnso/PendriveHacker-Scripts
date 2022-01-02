@@ -11,6 +11,10 @@
 - [Roubar Senhas do Navegador](/Senhas_Navegador)
 - [Keylogger](/Keylogger)
 - [Reverse Shell](/Reverse_Shell)
+- [Fazer o PC Falar](/Talker)
+- [Pegadinha Wallpaper](/Wallpaper_Prank)
+- [Travar o PC](/TravarPC)
+
 
 ## Como usar?
 
